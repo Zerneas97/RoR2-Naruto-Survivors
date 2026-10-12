@@ -1,0 +1,50 @@
+name: Bug report
+description: Something broke, errored or looks wrong.
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: mod
+    attributes:
+      label: Which mod?
+      options:
+        - NarutoSageMod (Sage Naruto)
+        - SasukeMangekyouMod (Taka Sasuke)
+        - MinatoMod
+        - KizunaMod (co-op bonds / combos)
+        - Not sure
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Mod version
+      placeholder: "e.g. 0.22.1 (shown in r2modman)"
+    validations:
+      required: true
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Single player or multiplayer?
+      options:
+        - Single player
+        - Multiplayer (I was the host)
+        - Multiplayer (I was a client)
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, what you got. Which skill, which stage, how often.
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: Log
+      description: "Drag your LogOutput.log here (r2modman → Settings → Debugging → Copy LogOutput contents), or paste the red error lines."
+  - type: textarea
+    id: mods
+    attributes:
+      label: Other mods
+      description: Other mods in the profile, if any (r2modman → Settings → Profile → Export as code is fine).
