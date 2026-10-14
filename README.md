@@ -1,5 +1,7 @@
 # Zerneas — Naruto survivors for Risk of Rain 2
 
+[![Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KMVTYfN8wU) [![Naruto Collection](https://img.shields.io/badge/All%20characters-Naruto%20Collection-f2a040?style=for-the-badge)](https://thunderstore.io/c/riskofrain2/p/Zerneas/NarutoCollection/)
+
 Playable Naruto characters for Risk of Rain 2, with their Naruto Shippuden: Ultimate Ninja Storm 4 models, animations and voices, built to scale like vanilla survivors.
 
 | Mod | What it is | Thunderstore |
@@ -13,7 +15,16 @@ Playable Naruto characters for Risk of Rain 2, with their Naruto Shippuden: Ulti
 
 ## Install
 
-Use [r2modman](https://thunderstore.io/package/ebkr/r2modman/) or the Thunderstore Mod Manager and install the survivor you want: dependencies (including KizunaMod) come with it.
+Use [r2modman](https://thunderstore.io/package/ebkr/r2modman/) or the Thunderstore Mod Manager. The [**Naruto Collection**](https://thunderstore.io/c/riskofrain2/p/Zerneas/NarutoCollection/) modpack installs every character at once; or install the survivor you want: dependencies (including KizunaMod) come with it.
+
+## In action
+
+| | |
+|:-:|:-:|
+| ![Naruto](media/naruto_rasenshuriken.gif) | ![Sasuke](media/sasuke_cursedseal.gif) |
+| ![Sage Naruto](media/sage_sixtails.gif) | ![Taka Sasuke](media/taka_amaterasu.gif) |
+| ![Minato](media/minato_senko.gif) | ![Sasuke](media/sasuke_kirin.gif) |
+| ![Kizuna: Rasengan × Chidori](media/kizuna_naruto_sasuke.gif) | ![Kizuna: Enton: Rasen-Shuriken](media/kizuna_taka_sage.gif) |
 
 ## Screenshots
 
@@ -24,6 +35,12 @@ Use [r2modman](https://thunderstore.io/package/ebkr/r2modman/) or the Thundersto
 | ![Naruto](screenshots/naruto_1_rasenshuriken.jpg) | ![Sasuke](screenshots/sasuke_1_kirin.jpg) |
 
 More in [`screenshots/`](screenshots/).
+
+## Join the community
+
+[![Join the Zerneas Mods Discord](media/discord_banner.png)](https://discord.gg/KMVTYfN8wU)
+
+Bug reports, suggestions for jutsu and the next characters, co-op partners and early test versions: it all happens on the [Discord](https://discord.gg/KMVTYfN8wU).
 
 ## Bugs and suggestions
 
