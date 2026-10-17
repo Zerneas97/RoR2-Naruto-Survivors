@@ -12,6 +12,8 @@ Playable Naruto characters for Risk of Rain 2, with their Naruto Shippuden: Ulti
 | **MinatoMod** | Minato, the Yellow Flash: Hiraishin kunai, seals, Rasengan, Senkō, Nine-Tails Chakra Mode. | [Zerneas-MinatoMod](https://thunderstore.io/package/Zerneas/MinatoMod/) |
 | **NarutoShippudenMod** | Naruto: shadow clones that learn for him, Rasengan, Fuma Shuriken, Rasen-Shuriken, Four-Tails form. | [Zerneas-NarutoShippudenMod](https://thunderstore.io/package/Zerneas/NarutoShippudenMod/) |
 | **SasukeShippudenMod** | Sasuke: fire heats the sky, lightning cashes it in: Kusanagi, Katon, Chidori, Kirin, Cursed Seal form. | [Zerneas-SasukeShippudenMod](https://thunderstore.io/package/Zerneas/SasukeShippudenMod/) |
+| **NarutoSixPathsMod** | Six Paths Naruto: Truth-Seeking Orbs, flight, Lava Release Rasen-Shuriken, Kurama's Arms, the Ōgi of Kurama's avatar. | [Zerneas-NarutoSixPathsMod](https://thunderstore.io/package/Zerneas/NarutoSixPathsMod/) |
+| **SasukeRinneganMod** | Rinnegan Sasuke: the latent Susanoo, Amenotejikara, black Chidori, Chibaku Tensei, the Ōgi of Indra's Arrow. | [Zerneas-SasukeRinneganMod](https://thunderstore.io/package/Zerneas/SasukeRinneganMod/) |
 
 ## Install
 
@@ -24,6 +26,7 @@ Use [r2modman](https://thunderstore.io/package/ebkr/r2modman/) or the Thundersto
 | ![Naruto](media/naruto_rasenshuriken.gif) | ![Sasuke](media/sasuke_cursedseal.gif) |
 | ![Sage Naruto](media/sage_sixtails.gif) | ![Taka Sasuke](media/taka_amaterasu.gif) |
 | ![Minato](media/minato_senko.gif) | ![Sasuke](media/sasuke_kirin.gif) |
+| ![Six Paths Naruto](media/sixpaths_ogi.gif) | ![Rinnegan Sasuke](media/rinnegan_arrow.gif) |
 | ![Kizuna: Rasengan × Chidori](media/kizuna_naruto_sasuke.gif) | ![Kizuna: Enton: Rasen-Shuriken](media/kizuna_taka_sage.gif) |
 
 ## Screenshots
