@@ -6,7 +6,7 @@ Playable Naruto characters for Risk of Rain 2, with their Naruto Shippuden: Ulti
 
 | Mod | What it is | Thunderstore |
 |---|---|---|
-| **KizunaMod** | Co-op bonds: each pair of these survivors shares a passive and a combined cinematic technique (key **C**). Required by the survivors below. | [Zerneas-KizunaMod](https://thunderstore.io/package/Zerneas/KizunaMod/) |
+| **KizunaMod** | Co-op bonds: each pair of these survivors shares a passive and a combined cinematic technique (key **C**). Also the Valley of the End title screen, the English/Japanese voices switch and the Naruto and Sasuke families in the character select (with Survariants). Required by the survivors below. | [Zerneas-KizunaMod](https://thunderstore.io/package/Zerneas/KizunaMod/) |
 | **NarutoSageMod** | Sage Mode Naruto: natural energy, Frog Kumite, Big Ball Rasengan, Rasen-Shuriken, Six-Tails form. | [Zerneas-NarutoSageMod](https://thunderstore.io/package/Zerneas/NarutoSageMod/) |
 | **SasukeMangekyouMod** | Taka Sasuke: Sharingan marks, Susanoo, Kusanagi, Chidori, Amaterasu, awakened Mangekyō form. | [Zerneas-SasukeMangekyouMod](https://thunderstore.io/package/Zerneas/SasukeMangekyouMod/) |
 | **MinatoMod** | Minato, the Yellow Flash: Hiraishin kunai, seals, Rasengan, Senkō, Nine-Tails Chakra Mode. | [Zerneas-MinatoMod](https://thunderstore.io/package/Zerneas/MinatoMod/) |
