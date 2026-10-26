@@ -1,6 +1,6 @@
 # Zerneas — Naruto survivors for Risk of Rain 2
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KMVTYfN8wU) [![Naruto Collection](https://img.shields.io/badge/All%20characters-Naruto%20Collection-f2a040?style=for-the-badge)](https://thunderstore.io/c/riskofrain2/p/Zerneas/NarutoCollection/)
+[![Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KMVTYfN8wU) [![Naruto Collection](https://img.shields.io/badge/All%20characters-Naruto%20Collection-f2a040?style=for-the-badge)](https://thunderstore.io/c/riskofrain2/p/Zerneas/NarutoCollection/) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kizunaofzerneas)
 
 Playable Naruto characters for Risk of Rain 2, with their Naruto Shippuden: Ultimate Ninja Storm 4 models, animations and voices, built to scale like vanilla survivors.
 
@@ -14,6 +14,8 @@ Playable Naruto characters for Risk of Rain 2, with their Naruto Shippuden: Ulti
 | **SasukeShippudenMod** | Sasuke: fire heats the sky, lightning cashes it in: Kusanagi, Katon, Chidori, Kirin, Cursed Seal form. | [Zerneas-SasukeShippudenMod](https://thunderstore.io/package/Zerneas/SasukeShippudenMod/) |
 | **NarutoSixPathsMod** | Six Paths Naruto: Truth-Seeking Orbs, flight, Lava Release Rasen-Shuriken, Kurama's Arms, the Ōgi of Kurama's avatar. | [Zerneas-NarutoSixPathsMod](https://thunderstore.io/package/Zerneas/NarutoSixPathsMod/) |
 | **SasukeRinneganMod** | Rinnegan Sasuke: the latent Susanoo, Amenotejikara, black Chidori, Chibaku Tensei, the Ōgi of Indra's Arrow. | [Zerneas-SasukeRinneganMod](https://thunderstore.io/package/Zerneas/SasukeRinneganMod/) |
+| **HakuMod** | Haku, the Demonic Ice Mirrors: ice mirrors you set, go into and strike from, Hyoton needles, Sensatsu Suisho, Tsubame Fubuki, the dome of demonic mirrors. | [Zerneas-HakuMod](https://thunderstore.io/package/Zerneas/HakuMod/) |
+| **ZabuzaMod** | Zabuza, the Demon of the Hidden Mist: his own mist, the Kubikiribōchō that drinks iron, Suiryudan, Decapitation, the Demon form. | [Zerneas-ZabuzaMod](https://thunderstore.io/package/Zerneas/ZabuzaMod/) |
 
 ## Install
 
@@ -27,6 +29,8 @@ Use [r2modman](https://thunderstore.io/package/ebkr/r2modman/) or the Thundersto
 | ![Sage Naruto](media/sage_sixtails.gif) | ![Taka Sasuke](media/taka_amaterasu.gif) |
 | ![Minato](media/minato_senko.gif) | ![Sasuke](media/sasuke_kirin.gif) |
 | ![Six Paths Naruto](media/sixpaths_ogi.gif) | ![Rinnegan Sasuke](media/rinnegan_arrow.gif) |
+| ![Haku](media/haku_dome.gif) | ![Zabuza](media/zabuza_demon.gif) |
+| ![Kizuna: Hidden Mist Ice Dragon](media/kizuna_haku_zabuza.gif) | ![Kizuna: A Thousand Reflections](media/kizuna_haku_naruto.gif) |
 | ![Kizuna: Rasengan × Chidori](media/kizuna_naruto_sasuke.gif) | ![Kizuna: Enton: Rasen-Shuriken](media/kizuna_taka_sage.gif) |
 
 ## Screenshots
@@ -50,6 +54,10 @@ Bug reports, suggestions for jutsu and the next characters, co-op partners and e
 - **Bug?** Open an [issue](../../issues/new/choose) with the *Bug report* form. Attach your `LogOutput.log` (r2modman → Settings → Debugging → *Copy LogOutput contents to clipboard*, or `BepInEx/LogOutput.log` in your profile folder).
 - **Idea or balance feedback?** Use the *Suggestion* form, or come to the Discord.
 - **Discord:** https://discord.gg/KMVTYfN8wU
+
+## Support
+
+All my mods are free to play. If you'd like to say thanks, you can [buy me a coffee on Ko-fi](https://ko-fi.com/kizunaofzerneas). Tips are optional and just a way to say thanks.
 
 ## Credits
 
