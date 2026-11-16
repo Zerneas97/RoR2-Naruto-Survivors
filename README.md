@@ -1,12 +1,12 @@
 # Zerneas — Naruto survivors for Risk of Rain 2
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KMVTYfN8wU) [![Naruto Collection](https://img.shields.io/badge/All%20characters-Naruto%20Collection-f2a040?style=for-the-badge)](https://thunderstore.io/c/riskofrain2/p/Zerneas/NarutoCollection/) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kizunaofzerneas)
+[![Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DVMXe8fsnN) [![Naruto Collection](https://img.shields.io/badge/All%20characters-Naruto%20Collection-f2a040?style=for-the-badge)](https://thunderstore.io/c/riskofrain2/p/Zerneas/NarutoCollection/) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kizunaofzerneas)
 
 Playable Naruto characters for Risk of Rain 2, with their Naruto Shippuden: Ultimate Ninja Storm 4 models, animations and voices, built to scale like vanilla survivors.
 
 | Mod | What it is | Thunderstore |
 |---|---|---|
-| **KizunaMod** | Co-op bonds: each pair of these survivors shares a passive and a combined cinematic technique (key **C**). Also the Valley of the End title screen, the English/Japanese voices switch and the Naruto and Sasuke families in the character select (with Survariants). Required by the survivors below. | [Zerneas-KizunaMod](https://thunderstore.io/package/Zerneas/KizunaMod/) |
+| **KizunaMod** | Team gifts: each character gives something of his own to every ally, any survivor. Also the Final Valley expansion (BETA): a secret stage with rival Naruto and Sasuke bosses and their items, the Valley of the End title screen, the English/Japanese voices switch and the Naruto and Sasuke families in the character select (with Survariants). Required by the survivors below. | [Zerneas-KizunaMod](https://thunderstore.io/package/Zerneas/KizunaMod/) |
 | **NarutoSageMod** | Sage Mode Naruto: natural energy, Frog Kumite, Big Ball Rasengan, Rasen-Shuriken, Six-Tails form. | [Zerneas-NarutoSageMod](https://thunderstore.io/package/Zerneas/NarutoSageMod/) |
 | **SasukeMangekyouMod** | Taka Sasuke: Sharingan marks, Susanoo, Kusanagi, Chidori, Amaterasu, awakened Mangekyō form. | [Zerneas-SasukeMangekyouMod](https://thunderstore.io/package/Zerneas/SasukeMangekyouMod/) |
 | **MinatoMod** | Minato, the Yellow Flash: Hiraishin kunai, seals, Rasengan, Senkō, Nine-Tails Chakra Mode. | [Zerneas-MinatoMod](https://thunderstore.io/package/Zerneas/MinatoMod/) |
@@ -16,6 +16,7 @@ Playable Naruto characters for Risk of Rain 2, with their Naruto Shippuden: Ulti
 | **SasukeRinneganMod** | Rinnegan Sasuke: the latent Susanoo, Amenotejikara, black Chidori, Chibaku Tensei, the Ōgi of Indra's Arrow. | [Zerneas-SasukeRinneganMod](https://thunderstore.io/package/Zerneas/SasukeRinneganMod/) |
 | **HakuMod** | Haku, the Demonic Ice Mirrors: ice mirrors you set, go into and strike from, Hyoton needles, Sensatsu Suisho, Tsubame Fubuki, the dome of demonic mirrors. | [Zerneas-HakuMod](https://thunderstore.io/package/Zerneas/HakuMod/) |
 | **ZabuzaMod** | Zabuza, the Demon of the Hidden Mist: his own mist, the Kubikiribōchō that drinks iron, Suiryudan, Decapitation, the Demon form. | [Zerneas-ZabuzaMod](https://thunderstore.io/package/Zerneas/ZabuzaMod/) |
+| **KabutoMod** | Kabuto Yakushi: snakes, ANBU corpses, the Edo Tensei that raises other Naruto characters, the white snake form. | [Zerneas-KabutoMod](https://thunderstore.io/package/Zerneas/KabutoMod/) |
 
 ## Install
 
@@ -32,6 +33,9 @@ Use [r2modman](https://thunderstore.io/package/ebkr/r2modman/) or the Thundersto
 | ![Haku](media/haku_dome.gif) | ![Zabuza](media/zabuza_demon.gif) |
 | ![Kizuna: Hidden Mist Ice Dragon](media/kizuna_haku_zabuza.gif) | ![Kizuna: A Thousand Reflections](media/kizuna_haku_naruto.gif) |
 | ![Kizuna: Rasengan × Chidori](media/kizuna_naruto_sasuke.gif) | ![Kizuna: Enton: Rasen-Shuriken](media/kizuna_taka_sage.gif) |
+| ![Kabuto](media/kabuto_intro.gif) | ![Kabuto: Edo Tensei](media/kabuto_edo.gif) |
+| ![Kizuna: the Final Valley](media/kizuna_valley.gif) | ![Kizuna: Six Paths entrance](media/kizuna_intro_sixpaths.gif) |
+| ![Kizuna gift: Kabuto](media/kizuna_gift_kabuto.gif) | ![Kizuna gift: Haku](media/kizuna_gift_haku.gif) |
 
 ## Screenshots
 
@@ -45,15 +49,15 @@ More in [`screenshots/`](screenshots/).
 
 ## Join the community
 
-[![Join the Zerneas Mods Discord](media/discord_banner.png)](https://discord.gg/KMVTYfN8wU)
+[![Join the Zerneas Mods Discord](media/discord_banner.png)](https://discord.gg/DVMXe8fsnN)
 
-Bug reports, suggestions for jutsu and the next characters, co-op partners and early test versions: it all happens on the [Discord](https://discord.gg/KMVTYfN8wU).
+Bug reports, suggestions for jutsu and the next characters, co-op partners and early test versions: it all happens on the [Discord](https://discord.gg/DVMXe8fsnN).
 
 ## Bugs and suggestions
 
 - **Bug?** Open an [issue](../../issues/new/choose) with the *Bug report* form. Attach your `LogOutput.log` (r2modman → Settings → Debugging → *Copy LogOutput contents to clipboard*, or `BepInEx/LogOutput.log` in your profile folder).
 - **Idea or balance feedback?** Use the *Suggestion* form, or come to the Discord.
-- **Discord:** https://discord.gg/KMVTYfN8wU
+- **Discord:** https://discord.gg/DVMXe8fsnN
 
 ## Support
 
